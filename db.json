@@ -16,7 +16,7 @@
 "type_id": 8
 "type_value": "Premier"
     }
-  ]
+  ],
   "Post": {
     "title": "string",
     "views": "int",
