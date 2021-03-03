@@ -1,5 +1,5 @@
 {
-  "data":[
+  "data":{[
     {
 "activate_before": "2021-12-22 10:50:48"
 "activated_at": ""
@@ -16,7 +16,7 @@
 "type_id": 8
 "type_value": "Premier"
     }
-  ],
+  ]},
   "Post": {
     "title": "string",
     "views": "int",
