@@ -15,6 +15,22 @@
 "status": true,
 "type_id": 8,
 "type_value": "Premier"
+    },
+     {
+"activate_before": "2021-12-30 10:50:48",
+"activated_at": "",
+"activation_code": "636119",
+"check_code": "32303534-3931-4373-8e4d-302e34383632",
+"creator_id": 6,
+"creator_value": "Some Man",
+"id": 1,
+"number": "1215524153253804",
+"numberFormatted": "1215-5241-5325-3804",
+"owner_id": null,
+"owner_value": "",
+"status": true,
+"type_id": 8,
+"type_value": "Gold"
     }
   ],
   "fields":[
@@ -28,16 +44,7 @@
 {"key": "type_value", "label": "Card Type"},
 {"key": "creator_value", "label": "Creator"},
 {"key": "owner_value", "abel": "Owner"}
-  ],
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
+  ]
+  
+  
 }
