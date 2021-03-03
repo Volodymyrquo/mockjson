@@ -1,5 +1,5 @@
 {
-  "data":{[
+  "data":[
     {
 "activate_before": "2021-12-22 10:50:48"
 "activated_at": ""
@@ -11,12 +11,12 @@
 "number": "1215524153253804"
 "numberFormatted": "1215-5241-5325-3804"
 "owner_id": null
-"owner_value: ""
-"status: true
+"owner_value": ""
+"status": true
 "type_id": 8
 "type_value": "Premier"
     }
-  ]},
+  ],
   "Post": {
     "title": "string",
     "views": "int",
