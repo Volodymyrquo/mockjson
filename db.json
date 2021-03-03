@@ -18,16 +18,16 @@
     }
   ],
   "fields":[
-{key: "id", label: "ID"},
-{key: "number", label: "Card Number"},
-{key: "check_code", label: "Check Code"},
-{key: "activation_code", label: "Activation Code"},
-{key: "activate_before", label: "Activation Before"},
-{key: "activated_at", label: "Activation Date"},
-{key: "status", label: "Status"},
-{key: "type_value", label: "Card Type"},
-{key: "creator_value", label: "Creator"},
-{key: "owner_value", label: "Owner"}
+{"key": "id", "label": "ID"},
+{"key": "number", "label": "Card Number"},
+{"key": "check_code", "label": "Check Code"},
+{"key": "activation_code", "label": "Activation Code"},
+{"key": "activate_before", "label": "Activation Before"},
+{"key": "activated_at", "label": "Activation Date"},
+{"key": "status", "label": "Status"},
+{"key": "type_value", "label": "Card Type"},
+{"key": "creator_value", "label": "Creator"},
+{"key": "owner_value", "abel": "Owner"}
   ],
   "Post": {
     "title": "string",
